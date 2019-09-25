@@ -8,7 +8,7 @@ __author__ = 'liujiaxing'
 from threading import Timer
 from datetime import datetime
 
-from spider import get_proxy as gp
+import get_proxy as gp
 from settings import proxy_spider_delta_time
 
 
